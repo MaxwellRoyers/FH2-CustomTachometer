@@ -1,4 +1,4 @@
-# FH2 Custom Tachometer v0.8.0
+# FH2 Custom Tachometer
 
 ### Features
 - Custom analog tachometer HUD.
@@ -8,6 +8,7 @@
 - Shift light indicator.
 - ABS, TCR and STM indicators.
 - Custom XAML-based HUD design.
+- External curved nitro gauge with live fuel readings through Nitro System.
 
 ### Requirements
 - Forza Horizon 2 (PC)
